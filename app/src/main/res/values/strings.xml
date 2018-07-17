@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EmployeeInfo</string>
+    <string name="name">Name</string>
+    <string name="course">Course</string>
+    <string name="price">Price</string>
+</resources>
